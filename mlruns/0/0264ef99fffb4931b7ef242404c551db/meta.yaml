@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PROJECTS/MLflow/mlruns/0/0264ef99fffb4931b7ef242404c551db/artifacts
+end_time: 1723471857713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0264ef99fffb4931b7ef242404c551db
+run_name: persistent-stork-749
+run_uuid: 0264ef99fffb4931b7ef242404c551db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723471857673
+status: 3
+tags: []
+user_id: Saurabh Chatterjee

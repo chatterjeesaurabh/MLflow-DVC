@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PROJECTS/MLflow/mlruns/0/c9d58f67779b44cbb1bd4cb263e22802/artifacts
+end_time: 1723471773914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d58f67779b44cbb1bd4cb263e22802
+run_name: casual-turtle-142
+run_uuid: c9d58f67779b44cbb1bd4cb263e22802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723471773854
+status: 3
+tags: []
+user_id: Saurabh Chatterjee
